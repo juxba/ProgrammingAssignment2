@@ -1,7 +1,7 @@
 ## cachematrix is a cache mechanism for matrices and theirs inverses
 ## 
 ## makeCacheMatrix delivers an R object consisting of a list of functions for 
-## managing the given matrix and its calculated inverse,
+## managing the given matrix and its calculated inverse, solve(x)
 ## both saved in the parent environment.
 ## 
 ## Argument x is an invertible matrix.
